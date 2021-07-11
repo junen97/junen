@@ -23,7 +23,7 @@ Face mask de identification SW
 
 
 
-## 3.2.YOLOv5 세부모델의 종류
+## YOLOv5 세부모델의 종류
 ![img](https://github.com/ultralytics/yolov5/releases/download/v1.0/model_comparison.png)
 
 
@@ -39,7 +39,7 @@ Face mask de identification SW
 ![img](https://github.com/ultralytics/yolov5/releases/download/v1.0/model_plot.png)
 
 
-## 3.3.네트워크 구조
+## 네트워크 구조
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcD1Ts%2FbtqKBPsHQGp%2FKu8dlxjrsyWFbcjv6XMnqk%2Fimg.png)
 
 - Layer
