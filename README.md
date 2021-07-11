@@ -1,9 +1,7 @@
 # face-make-de-identification
-Face mask de identification SW
 
-
-# PART3.모델 : YOLOv5 사용 
-## 특징
+### 모델 : YOLOv5 사용 
+### 특징
 - 기존 연구들과 다르게 '속도' 중심. 빠르다!
     - 기존 연구들이 '정확도'를 중요하게 생각했으나, 실시간 반영 문제가 발생하여 이를 극복하고자 함
     - You Only Look Once
